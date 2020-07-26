@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\env",
+    "\\env\\Lib",
+    "\\env\\Lib\\site-packages",
+    "\\env\\Lib\\site-packages\\django",
+    "\\env\\Lib\\site-packages\\django\\db",
+    "\\env\\Lib\\site-packages\\django\\db\\models",
+    "\\env\\Lib\\site-packages\\django\\db\\models\\fields",
+    "\\env\\Lib\\site-packages\\rest_framework",
+    "\\MyApp",
+    "\\MyApp\\migrations"
+  ],
+  "SelectedNode": "\\MyApp\\views.py",
+  "PreviewInSolutionExplorer": false
+}
